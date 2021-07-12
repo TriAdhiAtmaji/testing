@@ -14,7 +14,7 @@ const register = (data) => (
                 return false;
             });
     }
-);
+);ersdfs
 
 export default {
     register

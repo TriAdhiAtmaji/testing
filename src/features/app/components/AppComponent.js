@@ -33,7 +33,7 @@ const TabNav = () => (
                     <MaterialCommunityIcons name="account" color={color} size={size} />
                 ),
             }} />
-    </Tab.Navigator>
+    </Tab.Navigator>errr
 )
 
 const AppComponent = () => (
